@@ -6,7 +6,7 @@ export default function Home(){
 
     return <div className="page">
         <div className="home-hero">
-            <div className="home-title">Welcome to Shopipipi</div>
+            <div className="home-title">Welcome to IT Shop</div>
             <p className="home-subtitle">
                 Discover products at great prices
             </p>
